@@ -38,12 +38,14 @@ Here are some of the projects I’ve worked on:
 ### E-SHOP Website
 - **Description**: E-SHOP Website with cart, promotion sliders, database, admin panel, user account.... 
 - **Technologies Used**: .NET, C#, HTML, CSS, Bootstrap, SQL, jQuery
-- **Live Demo**: **website is just a demo (not ready for real life use)** ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/da6d3315-3932-44b8-8848-e932beb78553)
+- **Live Demo**: **website is just a demo (not ready for real life use)** ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/4db653d1-30f5-4d62-8821-e7d9e34cc26f)
+
 
 ### 3d modelling 
 - **Description**: As far as 3d modeling is concerned, I have experience mostly with the assets used by RAGE engine
 - **Technologies Used**: Codewalker, Blender, Autodesk 3ds Max 2017, Photoshop, Zmodeler
-- **Live Demo**: ![image](https://github.com/user-attachments/assets/1876b55b-5d3d-4fc9-a60d-aa8383b9f104)
+- **Live Demo**: ![image](https://github.com/user-attachments/assets/891f8504-7c91-49be-b105-a0117a5189bd)
+
 
 
 
