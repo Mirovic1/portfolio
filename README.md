@@ -51,7 +51,7 @@ Here are some of the projects I’ve worked on:
 
 ## Get In Touch
 
-I’m always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out via email at vuk.mirovic.ets@gmail.com or connect with me on Discord [@mirovic].
+I’m always open to discuss about new projects, creative ideas, or opportunities to collaborate. Feel free to reach out via email at vuk.mirovic.ets@gmail.com or connect with me on Discord [@mirovic].
 
 
 Thank you for visiting my portfolio!
