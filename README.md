@@ -25,10 +25,6 @@
 ## Projects
 Here are some of the projects I’ve worked on:
 
-### Fivem server website 
-- **Description**: Website where you can find basic informations about server, gallery, shop, and play button that automatically connects you to the game.
-- **Technologies Used**: C#, JavaScript, HTML, CSS
-- **Live Demo**: https://www.wanted-rp.info/
 
 ### Discord bot 
 - **Description**: Discord bot that can execute commands (ban, mute, kick, help, delete...)
